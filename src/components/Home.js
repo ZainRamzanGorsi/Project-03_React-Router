@@ -1,5 +1,4 @@
 import React from "react";
-import zain from './react.jpg';
 import '../App.css';
 export default function Home() {
   return (
