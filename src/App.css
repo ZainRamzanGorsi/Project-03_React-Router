@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+.container{
+  position: static;
+  background-image: url(./components/react.jpg);
+  margin-top: 0%;
+  width: 100%;
+  height: 500px;
+  color: white;
+}
+.text{
+  display: inline;
+
+}
+.cloud{
+  padding-top: 10%;
+  padding-left: 18%;
+  font-size: 25px;
+}
